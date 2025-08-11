@@ -24,14 +24,14 @@ chmod +x create-paranext-extension.sh
 - Creates extension from official template
 - Installs dependencies and builds project
 - Creates welcome webview with congratulations message
-- Sets up symlink for Platform.Bible integration
+- ~Sets up symlink for Platform.Bible integration~ (This doesn't work. Will have to update the script to use `rsync` instead.)
 
 🎯 **Smart Setup**
 - Validates prerequisites (Node.js, Git, etc.)
 - Handles naming conventions automatically
 - Creates proper TypeScript/React structure
 - Includes Tailwind CSS styling
-- Follows Platform.Bible best practices
+- Follows Platform.Bible best practices (at least I tried)
 
 ⚡ **Ready to Use**
 - Extension appears in Platform.Bible immediately
