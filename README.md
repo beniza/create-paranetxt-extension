@@ -4,6 +4,10 @@
 
 A comprehensive script that sets up a complete Platform.Bible extension development environment with one command.
 
+## Important Notice
+
+This is an AI generated code. There may be errors. Testing pending.
+
 ## Quick Start
 
 ```bash
